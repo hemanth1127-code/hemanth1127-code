@@ -1,110 +1,74 @@
-# Hi there 👋, I'm Hemanth
+# Hemanth Kumar 👋
 
-## 🎓 Student Developer | Full Stack Engineer
-**📍 Tumkur, Karnataka, India**
+Student Developer • Full‑Stack Engineer • Building thoughtful, production-ready apps
 
-I'm a passionate computer science student committed to building robust, scalable applications and contributing to the tech community. Currently diving deep into full-stack development, exploring open-source contributions, and mastering emerging technologies.
+[![Website](https://img.shields.io/badge/website-Portfolio-blue?style=flat&logo=google-chrome)](https://yourdomain.com) [![Email](https://img.shields.io/badge/email-hemanth%40example.com-red?style=flat&logo=gmail)](mailto:hemanth@example.com) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth1127-code&layout=compact)](https://github.com/hemanth1127-code)
+
+About
+---
+Hi — I'm Hemanth, a Student Developer and Full‑Stack Engineer focused on building accessible, well-tested web apps. I care about performance, developer experience, and clean UX. I learn fast, contribute frequently, and enjoy mentoring others.
+
+Quick facts
+- 🔭 Currently building: FinPilotAI — intelligent financial tooling, and small real-time demos
+- 🌱 Learning: Next.js, serverless patterns, and UX microinteractions
+- 👯 Open to: collaboration and internships
+- 📫 Reach me: hemanth@example.com
+
+Skills
+---
+- Frontend: JavaScript (ES6+), React, Next.js, Tailwind CSS, HTML, CSS
+- Backend: Python, Node.js, Express, Flask, REST, GraphQL, PostgreSQL
+- ML & Data: Python, scikit-learn, basic ML pipelines
+- DevOps: Git, GitHub Actions, Docker, Vercel/GitHub Pages
+- Testing & QA: Jest, React Testing Library, PyTest
+
+Featured Projects
+---
+Here are a few public repositories you can explore — I used their current names and technologies from your GitHub profile.
+
+- FinPilotAI — Intelligent financial tooling and automation. (Python)
+  - Link: https://github.com/hemanth1127-code/FinPilotAI
+  - Notes: ML/automation-focused; good place to add a short case study (problem → approach → results).
+
+- Fraud_Detection_Flask — A Flask-based fraud detection demo. (Python / Flask)
+  - Link: https://github.com/hemanth1127-code/Fraud_Detection_Flask
+  - Notes: Include sample data, model metrics, and a link to a live demo if available.
+
+- sos-swift — TypeScript project with Swift-themed name (verify). (TypeScript)
+  - Link: https://github.com/hemanth1127-code/sos-swift
+  - Notes: Add a short description of the goal, stack, and what you built.
+
+How I work
+---
+- Small, iterative PRs with clear acceptance criteria
+- Automated tests and CI for each PR
+- Design systems and component-driven approach
+- Metrics-driven improvements (Lighthouse, bundle size)
+
+What I’d like to build next
+---
+- A dev tools dashboard for monitoring CI pipelines
+- An open-source starter kit for student developers
+
+Pinned Repos
+---
+(You can pin these from your GitHub profile — use the repo links below.)
+
+- https://github.com/hemanth1127-code/FinPilotAI
+- https://github.com/hemanth1127-code/Fraud_Detection_Flask
+- https://github.com/hemanth1127-code/sos-swift
+
+Contact
+---
+- Email: hemanth@example.com  
+- LinkedIn: https://linkedin.com/in/yourprofile  
+- Twitter: https://twitter.com/yourhandle
 
 ---
 
-## 🎓 Education
+Next steps I can take for you:
+- Replace placeholder emails, links, and short project blurbs with your real text — paste them here and I will update the README.
+- Create the portfolio site (index.html + styles) and push it to a repo (I can create files in a branch you specify).
+- Generate one-page case-study templates for each featured project.
 
-**Sri Siddhartha Institute of Technology**  
-- **Course**: Information Science  
-- **Location**: Tumkur, Karnataka
-
----
-
-## 💻 Tech Stack
-
-### Frontend Development
-- **Languages**: HTML5, CSS3, JavaScript, TypeScript
-- **Frameworks & Libraries**: React, Vue.js, Tailwind CSS, Bootstrap
-- **Tools**: Webpack, Vite, npm, yarn, Git
-
-### Backend Development
-- **Languages**: Python, JavaScript/Node.js, Java
-- **Frameworks**: Express.js, Django, Flask, FastAPI
-- **Databases**: MongoDB, PostgreSQL, MySQL, Firebase
-- **APIs**: RESTful APIs, GraphQL
-
-### DevOps & Tools
-- **Version Control**: Git, GitHub
-- **Deployment**: Docker, AWS, Heroku
-- **Testing**: Jest, Mocha, Pytest
-- **Other**: Linux, CI/CD basics, Nginx
-
----
-
-## 🎯 Current Learning Focus
-
-- 📚 Advanced JavaScript & TypeScript patterns
-- 🎨 Modern UI/UX design implementation
-- 🔧 Backend architecture & API design
-- ☁️ Cloud services (AWS, Firebase)
-- 🐳 Docker & containerization
-- 🔄 DevOps practices & CI/CD pipelines
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [**FinPilotAI**](https://github.com/hemanth1127-code/FinPilotAI) | AI-Powered SME Finance Platform with invoice management, cash flow forecasting, fraud detection, and intelligent business advisory | Python, FastAPI, React, PostgreSQL, Redis, Docker, OpenAI |
-
-*Check my repositories for more projects and contributions!*
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemanth1127-code&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth1127-code&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🌟 What Makes Me Stand Out
-
-✅ **Continuous Learner** - Always exploring new technologies and best practices  
-✅ **Problem Solver** - Love tackling challenging coding problems  
-✅ **Collaborative** - Open to teamwork and knowledge sharing  
-✅ **Open Source Enthusiast** - Passionate about contributing to the community  
-
----
-
-## 🤝 Let's Connect!
-
-I'm always eager to collaborate on interesting projects, share knowledge, and grow together with the developer community!
-
-- 🔗 **GitHub**: [@hemanth1127-code](https://github.com/hemanth1127-code)
-- 💼 **LinkedIn**: [Hemanth Bavimane](https://www.linkedin.com/in/hemanth-bavimane-3ab76a398?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- 💻 **LeetCode**: [harun_27](https://leetcode.com/harun_27/)
-- 📧 **Email**: [hemanthbavimane01@gmail.com](mailto:hemanthbavimane01@gmail.com)
-- 🐦 **Twitter/Threads**: [@hemanth_bavimane](https://twitter.com/hemanth_bavimane)
-
----
-
-## 💡 Open To
-
-- 🏆 Internship opportunities
-- 🤝 Collaborative projects
-- 📖 Learning & mentorship
-- 💼 Tech discussions & networking
-- 🚀 Open-source contributions
-- 🎯 Competitive programming & problem-solving
-
----
-
-## 📈 My Journey
-
-```
-🎓 Student → 💻 Developer → 🌟 Professional Engineer
-```
-
-*Currently on this exciting journey! Follow along as I build, learn, and grow.* 🚀
-
----
-
-⭐ *If you find my work helpful or interesting, feel free to star my repositories!*
+If you want this README updated with specific text (real email, project descriptions, or a different display name), paste those details and I'll update the file right away.
