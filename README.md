@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Hemanth
 
 ## 🎓 Student Developer | Full Stack Engineer
+**📍 Tumkur, Karnataka, India**
 
 I'm a passionate computer science student committed to building robust, scalable applications and contributing to the tech community. Currently diving deep into full-stack development, exploring open-source contributions, and mastering emerging technologies.
 
