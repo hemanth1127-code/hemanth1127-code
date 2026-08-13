@@ -2,7 +2,7 @@
 
 Student Developer • Full‑Stack Engineer • Building thoughtful, production-ready apps
 
-[![Website](https://img.shields.io/badge/website-Portfolio-blue?style=flat&logo=github)](https://github.com/hemanth1127-code) [![Email](https://img.shields.io/badge/email-hemanthbaviamne01@gamil.com-red?style=flat&logo=gmail)](mailto:hemanthbaviamne01@gamil.com) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth1127-code&layout=compact)](https://github.com/hemanth1127-code)
+[![Website](https://img.shields.io/badge/website-Portfolio-blue?style=flat&logo=github)](https://github.com/hemanth1127-code) [![Email](https://img.shields.io/badge/email-hemanthbaviamne01@gamil.com-red?style=flat&logo=gmail)](mailto:hemanthbavimane01@gamil.com) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth1127-code&layout=compact)](https://github.com/hemanth1127-code)
 
 About
 ---
@@ -12,7 +12,7 @@ Quick facts
 - 🔭 Currently building: FinPilotAI — intelligent financial tooling, and small real-time demos
 - 🌱 Learning: Next.js, serverless patterns, and UX microinteractions
 - 👯 Open to: collaboration and internships
-- 📫 Reach me: hemanthbaviamane01@gamil.com
+- 📫 Reach me: hemanthbavimane01@gamil.com
 
 Skills
 ---
@@ -60,7 +60,7 @@ Pinned Repos
 
 Contact
 ---
-- Email: hemanthbaviamane01@gamil.com  
+- Email: hemanthbavimane01@gamil.com  
 - LeetCode: harun_27  
 - Threads: @hemanth_bavimane  
-- LinkedIn: Hemanth baviamane
+- LinkedIn: Hemanth bavimane
