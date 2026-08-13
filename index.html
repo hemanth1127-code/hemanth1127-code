@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>hemanth1127-code — Portfolio</title>
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Poppins:wght@600;800&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css">
+
+  <meta name="description" content="Hemanth — Student Developer & Full-Stack Engineer. Portfolio and projects.">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="container header-grid">
+      <div class="brand">
+        <a href="/" aria-label="Home">
+          <svg class="logo" width="40" height="40" viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" fill="none" stroke="currentColor" stroke-width="6"/></svg>
+          <span class="brand-text">hemanth1127-code</span>
+        </a>
+      </div>
+
+      <nav class="nav" aria-label="Primary">
+        <a href="#work">Work</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+        <button id="themeToggle" class="btn-icon" aria-pressed="false" title="Toggle theme">🌙</button>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="hero-content">
+          <p class="eyebrow">Student Developer • Full‑Stack Engineer</p>
+          <h1 class="hero-title">I build thoughtful, production-ready web apps.</h1>
+          <p class="lead">Fast, accessible, and delightful experiences. Currently building FinPilotAI — small ML & web tooling demos.</p>
+          <p class="hero-ctas">
+            <a class="cta" href="#work">See my work</a>
+            <a class="ghost" href="mailto:hemanthbaviamne01@gamil.com">Email me</a>
+          </p>
+
+          <ul class="skill-list" aria-hidden="false">
+            <li>React</li><li>Next.js</li><li>Python</li><li>Flask</li><li>ML</li>
+          </ul>
+        </div>
+
+        <aside class="hero-card" aria-label="Profile card">
+          <div class="card-glass">
+            <img class="avatar" src="https://placehold.co/160x160/6EE7B7/04303A/png?text=HK" alt="Hemanth avatar (replace with your photo)">
+            <h3 class="card-name">Hemanth</h3>
+            <p class="card-role">Student Developer • Full‑Stack</p>
+
+            <div class="card-stats">
+              <div><strong>FinPilotAI</strong><span>ML tooling</span></div>
+              <div><strong>3</strong><span>Public projects</span></div>
+            </div>
+
+            <div class="card-links">
+              <a href="https://github.com/hemanth1127-code" aria-label="GitHub">GitHub</a>
+              <a href="https://linkedin.com/in/yourprofile" aria-label="LinkedIn">LinkedIn</a>
+            </div>
+          </div>
+        </aside>
+      </div>
+
+      <!-- decorative animated blobs -->
+      <svg class="blobs" viewBox="0 0 800 400" aria-hidden="true">
+        <defs>
+          <linearGradient id="g1" x1="0" x2="1">
+            <stop offset="0" stop-color="#6EE7B7"/>
+            <stop offset="1" stop-color="#7DD3FC"/>
+          </linearGradient>
+        </defs>
+        <circle cx="650" cy="60" r="160" fill="url(#g1)" opacity="0.18" />
+        <circle cx="100" cy="320" r="120" fill="#7dd3fc" opacity="0.08" />
+      </svg>
+    </section>
+
+    <section id="work" class="container projects">
+      <h2 class="section-title">Selected projects</h2>
+
+      <div class="grid">
+        <article class="project card" tabindex="0">
+          <div class="project-media" aria-hidden="true"><img src="https://placehold.co/640x360/091A2B/7DD3FC/png?text=FinPilotAI" alt=""></div>
+          <div class="project-body">
+            <h3>FinPilotAI</h3>
+            <p class="project-desc">Intelligent financial tooling and automation — Python, ML pipelines, and web demos.</p>
+            <p class="project-meta">Python • ML • Flask</p>
+            <a class="project-link" href="https://github.com/hemanth1127-code/FinPilotAI">View repo →</a>
+          </div>
+        </article>
+
+        <article class="project card" tabindex="0">
+          <div class="project-media" aria-hidden="true"><img src="https://placehold.co/640x360/0B1220/6EE7B7/png?text=Fraud+Detection" alt=""></div>
+          <div class="project-body">
+            <h3>Fraud_Detection_Flask</h3>
+            <p class="project-desc">Flask demo for fraud detection with sample metrics and a lightweight API.</p>
+            <p class="project-meta">Python • Flask • Data</p>
+            <a class="project-link" href="https://github.com/hemanth1127-code/Fraud_Detection_Flask">View repo →</a>
+          </div>
+        </article>
+
+        <article class="project card" tabindex="0">
+          <div class="project-media" aria-hidden="true"><img src="https://placehold.co/640x360/042937/7DD3FC/png?text=sos-swift" alt=""></div>
+          <div class="project-body">
+            <h3>sos-swift</h3>
+            <p class="project-desc">TypeScript project focused on tooling and reusable components — see README for details.</p>
+            <p class="project-meta">TypeScript • Components</p>
+            <a class="project-link" href="https://github.com/hemanth1127-code/sos-swift">View repo →</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section id="about" class="container about">
+      <h2 class="section-title">About</h2>
+      <div class="about-grid">
+        <div>
+          <p>I’m a student developer building accessible, performant web apps. I focus on clear UX, measurable performance, and maintainable code.</p>
+          <ul class="about-list">
+            <li>🔭 Currently: FinPilotAI</li>
+            <li>🌱 Learning: Next.js, micro-interactions</li>
+            <li>👯 Open to: internships & collaboration</li>
+          </ul>
+        </div>
+
+        <div class="tech-logos">
+          <span>React</span><span>Next.js</span><span>Python</span><span>Postgres</span><span>Docker</span>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="container contact">
+      <h2 class="section-title">Contact</h2>
+      <p>Want to collaborate? Email me at <a href="mailto:hemanthbaviamne01@gamil.com">hemanthbaviamne01@gamil.com</a> or check my GitHub.</p>
+      <div class="contact-links">
+        <a href="https://leetcode.com/harun_27">LeetCode</a>
+        <a href="https://threads.net/@hemanth_bavimane">Threads</a>
+        <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">© <span id="year"></span> hemanth1127-code — Built with care.</div>
+  </footer>
+
+  <script>
+    // Theme toggle + persist
+    const root = document.documentElement;
+    const btn = document.getElementById('themeToggle');
+    const current = localStorage.getItem('theme') || (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    function applyTheme(t) {
+      if (t === 'dark') root.classList.add('dark');
+      else root.classList.remove('dark');
+      btn.textContent = t === 'dark' ? '☀️' : '🌙';
+      btn.setAttribute('aria-pressed', t === 'dark');
+      localStorage.setItem('theme', t);
+    }
+    applyTheme(current);
+    btn.addEventListener('click', () => applyTheme(root.classList.contains('dark') ? 'light' : 'dark'));
+
+    // Reveal on scroll for .card elements
+    const io = new IntersectionObserver((entries) => {
+      for (const e of entries) if (e.isIntersecting) { e.target.classList.add('reveal'); io.unobserve(e.target); }
+    }, {threshold: 0.12});
+    document.querySelectorAll('.card').forEach(n => io.observe(n));
+
+    // Year
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
