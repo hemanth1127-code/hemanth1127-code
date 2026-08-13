@@ -24,7 +24,7 @@ I'm a passionate computer science student committed to building robust, scalable
 
 ### Backend Development
 - **Languages**: Python, JavaScript/Node.js, Java
-- **Frameworks**: Express.js, Django, Flask
+- **Frameworks**: Express.js, Django, Flask, FastAPI
 - **Databases**: MongoDB, PostgreSQL, MySQL, Firebase
 - **APIs**: RESTful APIs, GraphQL
 
@@ -51,8 +51,7 @@ I'm a passionate computer science student committed to building robust, scalable
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| Coming Soon | [Exciting projects coming up!] | React, Node.js, MongoDB |
-| | | |
+| [**FinPilotAI**](https://github.com/hemanth1127-code/FinPilotAI) | AI-Powered SME Finance Platform with invoice management, cash flow forecasting, fraud detection, and intelligent business advisory | Python, FastAPI, React, PostgreSQL, Redis, Docker, OpenAI |
 
 *Check my repositories for more projects and contributions!*
 
