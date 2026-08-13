@@ -7,6 +7,14 @@ I'm a passionate computer science student committed to building robust, scalable
 
 ---
 
+## 🎓 Education
+
+**Sri Siddhartha Institute of Technology**  
+- **Course**: Information Science  
+- **Location**: Tumkur, Karnataka
+
+---
+
 ## 💻 Tech Stack
 
 ### Frontend Development
@@ -74,8 +82,8 @@ I'm always eager to collaborate on interesting projects, share knowledge, and gr
 - 🔗 **GitHub**: [@hemanth1127-code](https://github.com/hemanth1127-code)
 - 💼 **LinkedIn**: [Hemanth Bavimane](https://www.linkedin.com/in/hemanth-bavimane-3ab76a398?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 💻 **LeetCode**: [harun_27](https://leetcode.com/harun_27/)
-- 📧 **Email**: [Add your email]
-- 🐦 **Twitter**: [Add your Twitter handle]
+- 📧 **Email**: [hemanthbavimane01@gmail.com](mailto:hemanthbavimane01@gmail.com)
+- 🐦 **Twitter/Threads**: [@hemanth_bavimane](https://twitter.com/hemanth_bavimane)
 
 ---
 
