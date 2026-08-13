@@ -2,7 +2,7 @@
 
 Student Developer • Full‑Stack Engineer • Building thoughtful, production-ready apps
 
-[![Website](https://img.shields.io/badge/website-Portfolio-blue?style=flat&logo=github)](https://github.com/hemanth1127-code) [![Email](https://img.shields.io/badge/email-hemanthbaviamne01@gamil.com-red?style=flat&logo=gmail)](mailto:hemanthbavimane01@gamil.com) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth1127-code&layout=compact)](https://github.com/hemanth1127-code)
+[![Website](https://img.shields.io/badge/website-Portfolio-blue?style=flat&logo=github)](https://github.com/hemanth1127-code) [![Email](https://img.shields.io/badge/email-hemanthbavimane01@gamil.com-red?style=flat&logo=gmail)](mailto:hemanthbavimane01@gamil.com) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth1127-code&layout=compact)](https://github.com/hemanth1127-code)
 
 About
 ---
