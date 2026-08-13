@@ -2,7 +2,7 @@
 
 Student Developer • Full‑Stack Engineer • Building thoughtful, production-ready apps
 
-[![Website](https://img.shields.io/badge/website-Portfolio-blue?style=flat&logo=github)](https://github.com/hemanth1127-code) [![Email](https://img.shields.io/badge/email-hemanth%40example.com-red?style=flat&logo=gmail)](mailto:hemanth@example.com) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth1127-code&layout=compact)](https://github.com/hemanth1127-code)
+[![Website](https://img.shields.io/badge/website-Portfolio-blue?style=flat&logo=github)](https://github.com/hemanth1127-code) [![Email](https://img.shields.io/badge/email-hemanthbaviamne01@gamil.com-red?style=flat&logo=gmail)](mailto:hemanthbaviamne01@gamil.com) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth1127-code&layout=compact)](https://github.com/hemanth1127-code)
 
 About
 ---
@@ -12,7 +12,7 @@ Quick facts
 - 🔭 Currently building: FinPilotAI — intelligent financial tooling, and small real-time demos
 - 🌱 Learning: Next.js, serverless patterns, and UX microinteractions
 - 👯 Open to: collaboration and internships
-- 📫 Reach me: hemanth@example.com
+- 📫 Reach me: hemanthbaviamne01@gamil.com
 
 Skills
 ---
@@ -60,15 +60,7 @@ Pinned Repos
 
 Contact
 ---
-- Email: hemanth@example.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Twitter: https://twitter.com/yourhandle
-
----
-
-Next steps I can take for you:
-- Replace placeholder emails, links, and short project blurbs with your real text — paste them here and I will update the README.
-- Create the portfolio site (index.html + styles) and push it to a repo (I can create files in a branch you specify).
-- Generate one-page case-study templates for each featured project.
-
-If you want this README updated with specific text (real email, project descriptions, or a different display name), paste those details and I'll update the file right away.
+- Email: hemanthbaviamne01@gamil.com  
+- LeetCode: harun_27  
+- Threads: @hemanth_bavimane  
+- LinkedIn: Hemanth baviamne
