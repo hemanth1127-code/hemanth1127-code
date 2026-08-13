@@ -12,12 +12,12 @@ Quick facts
 - 🔭 Currently building: FinPilotAI — intelligent financial tooling, and small real-time demos
 - 🌱 Learning: Next.js, serverless patterns, and UX microinteractions
 - 👯 Open to: collaboration and internships
-- 📫 Reach me: hemanthbaviamne01@gamil.com
+- 📫 Reach me: hemanthbaviamane01@gamil.com
 
 Skills
 ---
-- Frontend: JavaScript (ES6+), React, Next.js, Tailwind CSS, HTML, CSS
-- Backend: Python, Node.js, Express, Flask, REST, GraphQL, PostgreSQL
+- Frontend: JavaScript (ES6+),  Next.js, Tailwind CSS, HTML, CSS
+- Backend: Python, Node.js, Express, Flask, PostgreSQL
 - ML & Data: Python, scikit-learn, basic ML pipelines
 - DevOps: Git, GitHub Actions, Docker, Vercel/GitHub Pages
 - Testing & QA: Jest, React Testing Library, PyTest
@@ -60,7 +60,7 @@ Pinned Repos
 
 Contact
 ---
-- Email: hemanthbaviamne01@gamil.com  
+- Email: hemanthbaviamane01@gamil.com  
 - LeetCode: harun_27  
 - Threads: @hemanth_bavimane  
-- LinkedIn: Hemanth baviamne
+- LinkedIn: Hemanth baviamane
